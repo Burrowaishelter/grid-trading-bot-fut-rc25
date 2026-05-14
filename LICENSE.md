@@ -1,4 +1,4 @@
-# 
+# custom grid trading bot for futures Executor | position-sizing + high-frequency is the best grid trading bot for futures, featuring position-sizing and high-frequency. Smart,
 
 
 
